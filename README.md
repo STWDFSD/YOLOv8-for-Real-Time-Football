@@ -6,7 +6,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/noorkhokhar99/YOLOv8-football.git
+git clone https://github.com/STWDFSD/YOLOv8-for-Real-Time-Football.git
 ```
 
 - Goto cloned folder
